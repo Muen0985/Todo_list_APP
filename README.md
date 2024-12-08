@@ -10,3 +10,5 @@
 * 熟悉使用 Flask 建立簡單的 RESTful API。
 * 學會如何將 Flask 應用與 SQLite3 數據庫整合。
 * 使用 Tkinter 創建簡單的桌面應用界面
+
+<img src="./images/todoshow.png" alt="Todo List App" width="300" height="500"/>
